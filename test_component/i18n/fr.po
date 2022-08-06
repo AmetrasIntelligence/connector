@@ -1,23 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * test_component
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
-# Nicolas JEUDY <njeudy@panda-chi.io>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-01 01:48+0000\n"
-"PO-Revision-Date: 2018-02-01 01:48+0000\n"
-"Last-Translator: Nicolas JEUDY <njeudy@panda-chi.io>, 2018\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.connector] 13.0/test_component/i18n/test_component.pot\n"
+"X-Crowdin-File-ID: 2952\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:41\n"
 
 #. module: test_component
 #: model:ir.model.fields,field_description:test_component.field_test_component_collection__create_uid
@@ -32,12 +29,12 @@ msgstr "Créé le"
 #. module: test_component
 #: model:ir.model.fields,field_description:test_component.field_test_component_collection__display_name
 msgid "Display Name"
-msgstr "Nom affiché"
+msgstr "Nom d'affichage"
 
 #. module: test_component
 #: model:ir.model.fields,field_description:test_component.field_test_component_collection__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: test_component
 #: model:ir.model.fields,field_description:test_component.field_test_component_collection____last_update
@@ -62,4 +59,5 @@ msgstr "Nom"
 #. module: test_component
 #: model:ir.model,name:test_component.model_test_component_collection
 msgid "test.component.collection"
-msgstr "test.component.collection"
+msgstr ""
+
