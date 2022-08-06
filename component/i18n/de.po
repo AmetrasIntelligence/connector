@@ -1,22 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * component
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-05 16:56+0000\n"
-"PO-Revision-Date: 2018-01-05 16:56+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2018\n"
-"Language-Team: German (https://www.transifex.com/oca/teams/23907/de/)\n"
-"Language: de\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.connector] 13.0/component/i18n/component.pot\n"
+"X-Crowdin-File-ID: 2944\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 21:41\n"
 
 #. module: component
 #: model:ir.model,name:component.model_collection_base
@@ -32,7 +30,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:component.field_collection_base__display_name
 #: model:ir.model.fields,field_description:component.field_component_builder__display_name
 msgid "Display Name"
-msgstr "Anzeigebezeichnung"
+msgstr "Anzeigename"
 
 #. module: component
 #: model:ir.model.fields,field_description:component.field_collection_base__id
@@ -44,4 +42,5 @@ msgstr "ID"
 #: model:ir.model.fields,field_description:component.field_collection_base____last_update
 #: model:ir.model.fields,field_description:component.field_component_builder____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt aktualisiert am"
+msgstr "Zuletzt geändert am"
+
