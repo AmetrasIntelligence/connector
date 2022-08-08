@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.connector] 13.0/connector/i18n/connector.pot\n"
 "X-Crowdin-File-ID: 2948\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:02\n"
+"PO-Revision-Date: 2022-08-08 02:15\n"
 
 #. module: connector
 #: code:addons/connector/models/checkpoint.py:0
@@ -231,7 +231,7 @@ msgstr "Fehler beim Versenden der Nachrichten"
 #. module: connector
 #: model:ir.model.fields,field_description:connector.field_connector_checkpoint__message_ids
 msgid "Messages"
-msgstr "Mitteilungen"
+msgstr "Nachrichten"
 
 #. module: connector
 #: model:ir.model.fields,field_description:connector.field_connector_checkpoint__model_id
