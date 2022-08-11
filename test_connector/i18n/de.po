@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.connector] 13.0/test_connector/i18n/test_connector.pot\n"
 "X-Crowdin-File-ID: 2954\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:41\n"
+"PO-Revision-Date: 2022-08-11 16:58\n"
 
 #. module: test_connector
 #: model:ir.model.constraint,message:test_connector.constraint_connector_test_binding_test_binding_uniq
@@ -26,7 +26,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:test_connector.field_connector_test_binding__backend_id
 #: model:ir.model.fields,field_description:test_connector.field_no_inherits_binding__backend_id
 msgid "Backend"
-msgstr ""
+msgstr "Backend"
 
 #. module: test_connector
 #: model:ir.model,name:test_connector.model_test_backend
