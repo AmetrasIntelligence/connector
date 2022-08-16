@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.connector] 13.0/connector/i18n/connector.pot\n"
 "X-Crowdin-File-ID: 2948\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-08 02:15\n"
+"PO-Revision-Date: 2022-08-16 15:02\n"
 
 #. module: connector
 #: code:addons/connector/models/checkpoint.py:0
@@ -80,7 +80,7 @@ msgstr "Unternehmen"
 #. module: connector
 #: model:ir.module.category,name:connector.module_category_connector
 msgid "Connector"
-msgstr ""
+msgstr "Schnittstelle"
 
 #. module: connector
 #: model:ir.model,name:connector.model_connector_backend
