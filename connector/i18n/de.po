@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.connector] 13.0/connector/i18n/connector.pot\n"
 "X-Crowdin-File-ID: 2948\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-16 15:02\n"
+"PO-Revision-Date: 2022-08-17 15:28\n"
 
 #. module: connector
 #: code:addons/connector/models/checkpoint.py:0
@@ -366,7 +366,7 @@ msgstr "Als Überprüft markieren"
 #. module: connector
 #: model:ir.model.fields,field_description:connector.field_connector_checkpoint__state
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #. module: connector
 #: model:ir.model.fields,help:connector.field_connector_checkpoint__activity_state
